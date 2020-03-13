@@ -1,0 +1,2 @@
+rootProject.name='Caesar Ascii'
+include ':app'
